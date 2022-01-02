@@ -16,7 +16,7 @@
 <div>
   <a href="https://github.com/finpama"> 
     
-  <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=finpama&layout=compact&langs_count=7&theme=midnight-purple&border_color=21262d&bg_color=40,0e000b,040009"/><br>
+  <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=finpama&layout=compact&langs_count=7&theme=midnight-purple&border_color=21262d&bg_color=40,120008,0A0013"/><br>
   <div align="center" style="display: inline_block">
     <img alt="Js" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg">
     <img alt="HTML" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg">
@@ -28,7 +28,7 @@
 ##
     
   <br><div align="center">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=finpama&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&icon_color=ff0033&border_color=21262d&bg_color=40,0e000b,040009"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=finpama&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&icon_color=ff0033&border_color=21262d&bg_color=40,120008,0A0013"/>
   </div>
    
   </a>
