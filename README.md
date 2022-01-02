@@ -13,7 +13,11 @@
 ##
 
 <div>
-  <a href="https://github.com/finpama">
+  <a href="https://github.com/finpama"> 
+    <div align="center">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=finpama&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&icon_color=ff0033&border_color=21262d&bg_color=40,0e000b,040009"/><br><br>
+    </div>
+    
   <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=finpama&layout=compact&langs_count=7&theme=midnight-purple&border_color=21262d&bg_color=40,0e000b,040009"/>
   <div align="center" style="display: inline_block"><br>
     <img alt="Js" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg">
@@ -22,8 +26,7 @@
     <img alt="Node" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg">
     <img alt="Figma" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
   </div>
-    
-  <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api?username=finpama&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&icon_color=ff0033&border_color=21262d&bg_color=40,0e000b,040009"/>
+   
   </a>
 </div>
   
