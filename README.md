@@ -26,3 +26,5 @@
   <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=finpama&layout=compact&langs_count=7&theme=midnight-purple&border_color=21262d&bg_color=40,0e000b,040009"/>
   </a>
 </div>
+  
+  ![Snake animation](https://github.com/finpama/finpama/blob/output/github-contribution-grid-snake.svg)
