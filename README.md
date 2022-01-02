@@ -16,11 +16,11 @@
   <a href="https://github.com/finpama">
   <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=finpama&layout=compact&langs_count=7&theme=midnight-purple&border_color=21262d&bg_color=40,0e000b,040009"/>
   <div align="center" style="display: inline_block"><br>
-    <img alt="Js" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg">
-    <img alt="HTML" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg">
-    <img alt="CSS" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg">
-    <img alt="Node" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg">
-    <img alt="Figma" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
+    <img alt="Js" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg">
+    <img alt="HTML" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg">
+    <img alt="CSS" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg"><br><br>
+    <img alt="Node" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg">
+    <img alt="Figma" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
   </div>
     
   <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api?username=finpama&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&icon_color=ff0033&border_color=21262d&bg_color=40,0e000b,040009"/>
