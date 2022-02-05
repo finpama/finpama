@@ -1,13 +1,12 @@
 # Oi, Eu sou o Finpama 
-###  Meu nome é Pedro Henrique, tenho 16 anos e sou Brasileiro  
+###  Meu nome é Pedro, tenho 16 anos e sou Brasileiro  
 - 👨‍💻 Comecei a programar em 2020 e continuo aprendendo
-- 👀 Sou um desenvolvedor Full Stack...  
+- 👀 Sou um desenvolvedor Full Stack...
 - 🗣 I speak Portuguese and English. And I still want to learn a lot more :)
 
 <div align="right"> 
   <a href="mailto:phma020@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white&color=ff002f" target="_blank"></a>
   <a href="https://discordapp.com/users/381510205718134784/" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white&color=7e3ace" target="_blank"></a> 
-  <!-- <a href="" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> -->
 </div>
 
 ##
