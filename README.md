@@ -36,4 +36,3 @@
   </a>
 </div>
   
-  ![Snake animation](https://github.com/finpama/finpama/blob/output/github-contribution-grid-snake.svg)
