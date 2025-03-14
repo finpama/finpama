@@ -5,7 +5,7 @@
 - 🗣 I speak Portuguese and English. And I still want to learn a lot more :)
 
 <div align="right">
-  <a href="https:://www.linkedin.com/in/pedro-henrique-martins-alcantara-finpama"><img src="https://img.shields.io/badge/-Linkedin-%7289DA?style=for-the-badge&logo=linkedin&logoColor=white&color=7e3ace" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/pedro-henrique-martins-alcantara-finpama"><img src="https://img.shields.io/badge/-Linkedin-%7289DA?style=for-the-badge&logo=linkedin&logoColor=white&color=7e3ace" target="_blank"></a>
   <a href="mailto:phma020@gmail.com"><img src="https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=gmail&logoColor=white&color=ff002f" target="_blank"></a>
   <a href="https://discordapp.com/users/381510205718134784/" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white&color=7e3ace" target="_blank"></a> 
 </div>
