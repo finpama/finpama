@@ -10,7 +10,9 @@
   <a href="https://discordapp.com/users/381510205718134784/" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white&color=7e3ace" target="_blank"></a> 
 </div>
 
+<!--
 ##
+
 
 <br>
 <div>
@@ -36,3 +38,4 @@
   </a>
 </div>
   
+-->
